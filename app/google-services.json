@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "144369477754",
+    "firebase_url": "https://auto2f.firebaseio.com",
+    "project_id": "auto2f",
+    "storage_bucket": "auto2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144369477754:android:b4174740fa6e7570",
+        "android_client_info": {
+          "package_name": "com.coderunners.auto2fa_authenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144369477754-1lfdadvm1dm08sfe3o1u88ibuk751oe2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coderunners.auto2fa_authenticator",
+            "certificate_hash": "e4d20b926443c253da5d75960c429540fcb1728a"
+          }
+        },
+        {
+          "client_id": "144369477754-p4plpoud0nofsc8oa3924r3bhtdouocl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTZKtRN0BIzyy0lUajjqCJ0m8p11GndM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144369477754-p4plpoud0nofsc8oa3924r3bhtdouocl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
